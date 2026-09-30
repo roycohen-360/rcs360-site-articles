@@ -1,0 +1,7 @@
+# Generated pages are written with LF and nothing converts them. Pinning the
+# checkout stops a Windows clone from turning every line into a change the
+# next time the Linux runner rebuilds — which is exactly what the first real
+# Action run did: 2,963 insertions and 2,963 deletions, none of them content.
+*.html text eol=lf
+*.xml  text eol=lf
+*.md   text eol=lf
