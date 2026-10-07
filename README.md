@@ -4,7 +4,7 @@ The `articles/` directory of **rcs360.co.il**, and nothing else.
 
 The hosting panel deploys this repository into that one folder. Keeping it
 narrow is deliberate: a repo wired to the site root would delete every file
-the repo does not contain — the logo, the stylesheet, `accessibility.js` —
+the repo does not contain (the logo, the stylesheet, `accessibility.js`)
 on its first pull. Here the worst case is a broken article page.
 
 ## What is in here
@@ -27,7 +27,7 @@ on its own makes a thin page, and thin pages drag a site down rather than up.
 Three rules the generator holds, each of which was a defect first:
 
 - **The lead is the body's own first paragraph, moved.** Building it
-  separately printed the same idea three times per page — lead, table, body.
+  separately printed the same idea three times per page: lead, table, body.
 - **The table is only `stat` and `compare` slides.** `text` slides are the
   caption restated for a square, so tabling them prints the same sentences
   twice.
@@ -37,6 +37,6 @@ Three rules the generator holds, each of which was a defect first:
 ## Editing
 
 Edit the HTML here for a one-off fix. For anything systematic, fix the
-generator in RCS360-Growth — a change made only here is overwritten the next
+generator in RCS360-Growth. A change made only here is overwritten the next
 time that item is rebuilt.
 
