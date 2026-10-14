@@ -3,7 +3,7 @@
 
   <url>
     <loc>https://www.rcs360.co.il/articles/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -100,6 +100,12 @@
   <url>
     <loc>https://www.rcs360.co.il/articles/accountant-looks-back.html</loc>
     <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rcs360.co.il/articles/pizza-into-a-number.html</loc>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
