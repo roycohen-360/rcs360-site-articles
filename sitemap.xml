@@ -3,7 +3,7 @@
 
   <url>
     <loc>https://www.rcs360.co.il/articles/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -106,6 +106,12 @@
   <url>
     <loc>https://www.rcs360.co.il/articles/pizza-into-a-number.html</loc>
     <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rcs360.co.il/articles/dondoli-queue.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
