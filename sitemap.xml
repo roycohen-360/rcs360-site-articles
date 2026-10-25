@@ -3,7 +3,7 @@
 
   <url>
     <loc>https://www.rcs360.co.il/articles/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -28,6 +28,12 @@
   <url>
     <loc>https://www.rcs360.co.il/articles/pricing-strategy.html</loc>
     <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rcs360.co.il/articles/runway-october.html</loc>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
