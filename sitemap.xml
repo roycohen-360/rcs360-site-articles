@@ -3,7 +3,7 @@
 
   <url>
     <loc>https://www.rcs360.co.il/articles/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -76,6 +76,12 @@
   <url>
     <loc>https://www.rcs360.co.il/articles/invoice-never-arrived.html</loc>
     <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rcs360.co.il/articles/customers-bank.html</loc>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
