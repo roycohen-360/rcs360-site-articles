@@ -3,7 +3,7 @@
 
   <url>
     <loc>https://www.rcs360.co.il/articles/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -184,6 +184,12 @@
   <url>
     <loc>https://www.rcs360.co.il/articles/vat-sleeping-money.html</loc>
     <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rcs360.co.il/articles/loan-gap-recut.html</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
